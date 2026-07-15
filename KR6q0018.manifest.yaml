@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0018/v1
 canonical_location: https://kanripo.org/bkk/KR6q0018/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 五燈嚴統目錄
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0018_000.yaml, hash: 'sha256:ce46294b1dd7195efa5b90d2b92d00274fd4668be1b8f9fb49f785999fd29383'}
-  - {seq: 1, filename: KR6q0018_001.yaml, hash: 'sha256:9dfc3e1d17776f5fc194f10d128e956ef365a6050079d0555f5d1cee020d59fe'}
-  - {seq: 2, filename: KR6q0018_002.yaml, hash: 'sha256:ffdf1085a17cb7161bec442484c0dd019b3ffabd3b03addaede66946888979b3'}
+  - {seq: 0, filename: KR6q0018_000.yaml, hash: 'sha256:0f147b4f589cd9c3ff25afb693a806685b456198f27b3c68f7be06c908e3a4ab'}
+  - {seq: 1, filename: KR6q0018_001.yaml, hash: 'sha256:07ed307ebcad95c79be0a24e407d348a61e9ea4b75f93adf073b5612f8052d4e'}
+  - {seq: 2, filename: KR6q0018_002.yaml, hash: 'sha256:f06960b5ca41ce518a7bd343c9baa1141006a467fec2cb20036eabaafabb9f40'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0018_000.markers.yaml, hash: 'sha256:6501d4053ab86a731aab64b273919d07d1d5dcfab386028bcf76c8bb83bccb16'}
-  - {seq: 1, role: markers, filename: assets/KR6q0018_001.markers.yaml, hash: 'sha256:a55621d3a1eafad1839e41f23cd1a1519a14cff038e539c728b4e77bef493773'}
-  - {seq: 2, role: markers, filename: assets/KR6q0018_002.markers.yaml, hash: 'sha256:bc60af4fd9a147ec7d0e47fceeb2e5e1e0bab9b9e3b6c3885233340fbd0b79dd'}
+  - {seq: 0, role: markers, filename: assets/KR6q0018_000.markers.yaml, hash: 'sha256:23d6f2902cb5bbf52971f287ba27ab32f8ef3426d0711ac0f54a0413917c790f'}
+  - {seq: 1, role: markers, filename: assets/KR6q0018_001.markers.yaml, hash: 'sha256:40d2bc22293bb563fdcfa7bc6e5eb086c37c4c3287d6cd383c3e1d8c94f40594'}
+  - {seq: 2, role: markers, filename: assets/KR6q0018_002.markers.yaml, hash: 'sha256:9251278d2c86c8ece59c49a4f45fde0fdee33053706d45fc5ed7b0a905f22244'}
 table_of_contents:
 - ref:
     seq: 0
@@ -199,4 +199,7 @@ table_of_contents:
   label: 五燈嚴統目錄卷下
   type: juan
   level: 1
-hash: sha256:16bba42d5ced5c70280b46954a6281026b57fea7294fbf4971cd38e110b01985
+hash: sha256:51b3fd2d4d3d29d591da0e9da6dbf1bc5fd06a8ee24ef2ddc2832e87fc732218
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
