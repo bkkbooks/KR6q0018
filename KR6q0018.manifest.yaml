@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0018_000.yaml, hash: 'sha256:0f147b4f589cd9c3ff25afb693a806685b456198f27b3c68f7be06c908e3a4ab'}
+  - {seq: 0, filename: KR6q0018_000.yaml, hash: 'sha256:b42e3e16caaa256b2318e20c8a35ca37fe7b5ea0ad5a6ef09e5629a4dcef1e2f'}
   - {seq: 1, filename: KR6q0018_001.yaml, hash: 'sha256:07ed307ebcad95c79be0a24e407d348a61e9ea4b75f93adf073b5612f8052d4e'}
   - {seq: 2, filename: KR6q0018_002.yaml, hash: 'sha256:f06960b5ca41ce518a7bd343c9baa1141006a467fec2cb20036eabaafabb9f40'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0018_000.markers.yaml, hash: 'sha256:23d6f2902cb5bbf52971f287ba27ab32f8ef3426d0711ac0f54a0413917c790f'}
+  - {seq: 0, role: markers, filename: assets/KR6q0018_000.markers.yaml, hash: 'sha256:84f2a9cabf59be44016e9067c635dec5a43dfe0e0551ad12bbd22b61a72212e3'}
   - {seq: 1, role: markers, filename: assets/KR6q0018_001.markers.yaml, hash: 'sha256:40d2bc22293bb563fdcfa7bc6e5eb086c37c4c3287d6cd383c3e1d8c94f40594'}
   - {seq: 2, role: markers, filename: assets/KR6q0018_002.markers.yaml, hash: 'sha256:9251278d2c86c8ece59c49a4f45fde0fdee33053706d45fc5ed7b0a905f22244'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0018_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1567-A 五燈嚴統序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0018_X_000-mulu-2
     span:
-    - front
+    - body
     - 509
     - 509
   label: No. 1567-B 五燈嚴統序
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0018_X_000-mulu-3
     span:
-    - front
+    - body
     - 1060
     - 1060
   label: No. 1567-C 五燈嚴統序
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0018_X_000-mulu-4
     span:
-    - front
+    - body
     - 1624
     - 1624
   label: No. 1567-D 五燈嚴統序
@@ -73,7 +73,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0018_X_000-mulu-5
     span:
-    - front
+    - body
     - 2148
     - 2148
   label: No. 1567-E 五燈嚴統序
@@ -83,7 +83,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0018_X_000-mulu-6
     span:
-    - front
+    - body
     - 3133
     - 3133
   label: 五燈嚴統凡例
@@ -93,7 +93,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0018_X_000-mulu-7
     span:
-    - front
+    - body
     - 4409
     - 4409
   label: 附錄天皇道悟禪師󳬴文
@@ -103,7 +103,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0018_X_000-mulu-8
     span:
-    - front
+    - body
     - 4667
     - 4667
   label: 附錄天王道悟禪師󳬴文
@@ -113,7 +113,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0018_X_000-mulu-9
     span:
-    - front
+    - body
     - 5098
     - 5098
   label: 附錄人天眼目所載覺夢堂重較五家宗派序
@@ -123,7 +123,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0018_X_000-mulu-10
     span:
-    - front
+    - body
     - 5732
     - 5732
   label: 附錄雪竇明覺大師語錄後塔銘節略
@@ -133,7 +133,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0018_X_000-mulu-11
     span:
-    - front
+    - body
     - 5844
     - 5844
   label: 附錄宋覺範洪禪師辨宗派說
@@ -143,7 +143,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0018_X_000-mulu-12
     span:
-    - front
+    - body
     - 6214
     - 6214
   label: 附錄宋靈隱大川禪師按傳燈錄考辯兩家宗派說
@@ -153,7 +153,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0018_X_000-mulu-13
     span:
-    - front
+    - body
     - 7141
     - 7141
   label: 附錄宗門正名錄攷證禪燈世譜宗派說
@@ -163,7 +163,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0018_X_000-mulu-14
     span:
-    - front
+    - body
     - 8096
     - 8096
   label: 附錄寂音尊者彈斥薦福古遙嗣雲門偃
@@ -173,7 +173,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0018_X_000-mulu-15
     span:
-    - front
+    - body
     - 8467
     - 8467
   label: 較正五燈嚴統姓氏
@@ -199,7 +199,7 @@ table_of_contents:
   label: 五燈嚴統目錄卷下
   type: juan
   level: 1
-hash: sha256:51b3fd2d4d3d29d591da0e9da6dbf1bc5fd06a8ee24ef2ddc2832e87fc732218
+hash: sha256:ca421c836c7dbd527534d4bca7eea959faa9e0cade7f6194b85a12ddafc0821f
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
